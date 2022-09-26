@@ -14,7 +14,7 @@
     display: inline-block;
 }
 .search-text{
-    padding-left: 15px;px;
+    padding-left: 10px;
     padding-top: 5px;
 }
 .main-padding{
@@ -205,6 +205,8 @@
 }
 .width-25-header {
     width: 25%;
+    padding-left: 60px;
+    margin-right: 50px;
 }
 .width-48 {
     width: 48%;
@@ -248,8 +250,8 @@
 .footer {
     color: white;
 }
-.div:hover, {
-    background-color:red;
+.padding-left-search {
+    padding-left: 80px;
 }
 
 
